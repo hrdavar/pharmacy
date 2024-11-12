@@ -64,35 +64,34 @@
 </head>
 <body>
 
-<div class="large-image"></div> <!-- عکس بزرگ مستطیلی -->
+<div class="large-image"></div>
 
 <table>
     <tr>
-        <th>نام پروژه</th>
-        <th>متراژ</th>
-        <th>اتاق خواب</th>
-        <th>لوکیشن</th>
-        <th>ویو</th>
-        <th>عکس پروژه</th>
-        <th>نمایش عکس</th>
-        <th>قیمت</th>
-        <th>تماس با ما</th>
+        <th>Drug name</th>
+        <th>Number of inventory</th>
+        <th>Expiration date</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>Price</th>
+        <th>status</th>
     </tr>
     
-    <!-- یک ردیف نمونه -->
     <tr>
-        <td>پروژه نمونه</td>
-        <td>120 متر مربع</td>
-        <td>2</td>
-        <td>تهران</td>
-        <td>دریا</td>
-        <td><img src="small-image.jpg" alt="پروژه" class="small-image"></td>
-        <td><a href="#" class="btn-link">نمایش عکس</a></td>
-        <td>1,200,000 <span style="font-family: Arial;">AED</span></td>
-        <td><a href="tel:+971123456789" class="btn-link">تماس با ما</a></td>
+        <td>AA</td>
+        <td>12</td>
+        <td>2-2-2</td>
+        <td></td>
+        <td></td>
+        <td><img src="small-image.jpg" alt="Small IMAGE" class="small-image"></td>
+        <td><a href="#" class="btn-link"></a></td>
+        <td>1,200,000 <span style="font-family: Arial;">USA</span></td>
+        <td><a href="tel:+971123456789" class="btn-link">Call</a></td>
     </tr>
     
-    <!-- ردیف‌های خالی زیر جدول -->
+
     <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
