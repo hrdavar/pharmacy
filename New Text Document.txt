@@ -1,0 +1,1 @@
+https://github.com/cstprojects/pharmacy/blob/master/pharmacy.sql
